@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/amritanshuraj/.gradle/caches/transforms-3/7a6bbf9ae9ef251ebf2c1a8ef316ecf0/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/amritanshuraj/.gradle/caches/transforms-3/2da6dd4f5b852f3e403c251a0303761f/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/amritanshuraj/.gradle/caches/transforms-3/633583b3299b9fba43a0335c50eb4f0f/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/amritanshuraj/.gradle/caches/transforms-3/cfb81c7a665d3d803b90f10846868daa/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/25d16605fb455503bf105c692f661340/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/b5b02afac0f42c1d383c17aab63ccd98/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/amritanshuraj/.gradle/caches/transforms-3/b51e2720f63d109933517a308308b8bf/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/e2130ccca827c091ce84058c26cbf497/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/2f18b1af43c95dece49fa391f7f53cb4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/b6f2ef895685585d578774ba8294e3ea/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/amritanshuraj/.gradle/caches/transforms-3/13a27d357de12d8ddf8fdf9a1ab6e7b7/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/60453c85d4a1800b0207b8847a24f815/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/d4020f9db1609a21c104c525b69d19d4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/ae82984e77617c04c3127c38a0f8c542/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/e6b95002d06a84937f1f597ef28e9077/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/697689748b84e786bd7df2e2fd9defe4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/8eef14940f1833a6dd56720197f5807e/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/9370362dca00f8fee435303522d1ca0c/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/3ec2dcd339cbbe9416c1a4b9c1d65f54/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/amritanshuraj/.gradle/caches/transforms-3/272deb84de39bf437a81bb78d9af2e60/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f7f32e47f63966baffc94ff7689ffdeb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/94f6a1ab15f56a89fa296f6cfefd915f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f4f7e8b6a6441d3234bc233195ebdafa/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/45fefdd8ff9b86c6c8a0634508a3f60d/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/c20f56b251075ebf30d3826a6ae36287/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/9eac6380500092d2abb3abb481dd7f56/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/07a0fccf243ff2280ca06945a8ad97a0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/3d8aed4145a96e2d08930c089823c1fc/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f478ceb0e0518d9f3934988a184bd570/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/8b2b082909ffd5b4a25e6ef91cded6cf/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/75c00447d2555d6659ce976ff8cf9b2a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/0e89c09bf419de4539a586b61dcd0f53/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/39e25e2a431d4343a3f9a74b781c0694/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/cc244009da8022ae34d27d56b6aad5aa/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:5:5-32:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/amritanshuraj/.gradle/caches/transforms-3/2da6dd4f5b852f3e403c251a0303761f/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/amritanshuraj/.gradle/caches/transforms-3/2da6dd4f5b852f3e403c251a0303761f/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/amritanshuraj/.gradle/caches/transforms-3/633583b3299b9fba43a0335c50eb4f0f/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/amritanshuraj/.gradle/caches/transforms-3/633583b3299b9fba43a0335c50eb4f0f/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/amritanshuraj/.gradle/caches/transforms-3/272deb84de39bf437a81bb78d9af2e60/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/amritanshuraj/.gradle/caches/transforms-3/272deb84de39bf437a81bb78d9af2e60/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f4f7e8b6a6441d3234bc233195ebdafa/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f4f7e8b6a6441d3234bc233195ebdafa/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/amritanshuraj/.gradle/caches/transforms-3/272deb84de39bf437a81bb78d9af2e60/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:11:9-45
+activity#com.example.quizapp.ResultActivity
+ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:12:9-16:54
+	android:screenOrientation
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:15:13-49
+	android:exported
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:14:13-36
+	android:theme
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:16:13-52
+	android:name
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:13:13-43
+activity#com.example.quizapp.QuizQuestionsActivity
+ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:17:9-19:39
+	android:exported
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:18:13-50
+activity#com.example.quizapp.MainActivity
+ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:20:9-31:20
+	android:screenOrientation
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:23:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:25:13-55
+	android:exported
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/amritanshuraj/.gradle/caches/transforms-3/7a6bbf9ae9ef251ebf2c1a8ef316ecf0/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/amritanshuraj/.gradle/caches/transforms-3/7a6bbf9ae9ef251ebf2c1a8ef316ecf0/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/amritanshuraj/.gradle/caches/transforms-3/2da6dd4f5b852f3e403c251a0303761f/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/amritanshuraj/.gradle/caches/transforms-3/2da6dd4f5b852f3e403c251a0303761f/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/amritanshuraj/.gradle/caches/transforms-3/633583b3299b9fba43a0335c50eb4f0f/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/amritanshuraj/.gradle/caches/transforms-3/633583b3299b9fba43a0335c50eb4f0f/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/amritanshuraj/.gradle/caches/transforms-3/cfb81c7a665d3d803b90f10846868daa/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/amritanshuraj/.gradle/caches/transforms-3/cfb81c7a665d3d803b90f10846868daa/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/25d16605fb455503bf105c692f661340/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/25d16605fb455503bf105c692f661340/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/b5b02afac0f42c1d383c17aab63ccd98/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/b5b02afac0f42c1d383c17aab63ccd98/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/amritanshuraj/.gradle/caches/transforms-3/b51e2720f63d109933517a308308b8bf/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/amritanshuraj/.gradle/caches/transforms-3/b51e2720f63d109933517a308308b8bf/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/e2130ccca827c091ce84058c26cbf497/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/e2130ccca827c091ce84058c26cbf497/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/2f18b1af43c95dece49fa391f7f53cb4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/2f18b1af43c95dece49fa391f7f53cb4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/b6f2ef895685585d578774ba8294e3ea/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/b6f2ef895685585d578774ba8294e3ea/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/amritanshuraj/.gradle/caches/transforms-3/13a27d357de12d8ddf8fdf9a1ab6e7b7/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/amritanshuraj/.gradle/caches/transforms-3/13a27d357de12d8ddf8fdf9a1ab6e7b7/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/60453c85d4a1800b0207b8847a24f815/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/60453c85d4a1800b0207b8847a24f815/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/d4020f9db1609a21c104c525b69d19d4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/d4020f9db1609a21c104c525b69d19d4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/ae82984e77617c04c3127c38a0f8c542/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/ae82984e77617c04c3127c38a0f8c542/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/e6b95002d06a84937f1f597ef28e9077/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/e6b95002d06a84937f1f597ef28e9077/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/697689748b84e786bd7df2e2fd9defe4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/697689748b84e786bd7df2e2fd9defe4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/8eef14940f1833a6dd56720197f5807e/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/8eef14940f1833a6dd56720197f5807e/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/9370362dca00f8fee435303522d1ca0c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/9370362dca00f8fee435303522d1ca0c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/3ec2dcd339cbbe9416c1a4b9c1d65f54/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/3ec2dcd339cbbe9416c1a4b9c1d65f54/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/amritanshuraj/.gradle/caches/transforms-3/272deb84de39bf437a81bb78d9af2e60/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/amritanshuraj/.gradle/caches/transforms-3/272deb84de39bf437a81bb78d9af2e60/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f7f32e47f63966baffc94ff7689ffdeb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f7f32e47f63966baffc94ff7689ffdeb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/94f6a1ab15f56a89fa296f6cfefd915f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/94f6a1ab15f56a89fa296f6cfefd915f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f4f7e8b6a6441d3234bc233195ebdafa/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f4f7e8b6a6441d3234bc233195ebdafa/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/45fefdd8ff9b86c6c8a0634508a3f60d/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/45fefdd8ff9b86c6c8a0634508a3f60d/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/c20f56b251075ebf30d3826a6ae36287/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/amritanshuraj/.gradle/caches/transforms-3/c20f56b251075ebf30d3826a6ae36287/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/9eac6380500092d2abb3abb481dd7f56/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/9eac6380500092d2abb3abb481dd7f56/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/07a0fccf243ff2280ca06945a8ad97a0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/07a0fccf243ff2280ca06945a8ad97a0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/3d8aed4145a96e2d08930c089823c1fc/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/3d8aed4145a96e2d08930c089823c1fc/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f478ceb0e0518d9f3934988a184bd570/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/f478ceb0e0518d9f3934988a184bd570/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/8b2b082909ffd5b4a25e6ef91cded6cf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/8b2b082909ffd5b4a25e6ef91cded6cf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/75c00447d2555d6659ce976ff8cf9b2a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/75c00447d2555d6659ce976ff8cf9b2a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/0e89c09bf419de4539a586b61dcd0f53/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/0e89c09bf419de4539a586b61dcd0f53/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/39e25e2a431d4343a3f9a74b781c0694/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/39e25e2a431d4343a3f9a74b781c0694/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/cc244009da8022ae34d27d56b6aad5aa/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/amritanshuraj/.gradle/caches/transforms-3/cc244009da8022ae34d27d56b6aad5aa/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amritanshuraj/AndroidStudioProjects/Kotlin/QuizAPP/app/src/main/AndroidManifest.xml
